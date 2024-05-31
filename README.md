@@ -9,3 +9,9 @@ or
 ```
 python main.py
 ```
+
+## Useful commands
+Run database in docker container:
+```
+docker compose up -d pg
+```
